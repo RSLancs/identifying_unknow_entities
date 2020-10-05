@@ -1,0 +1,6 @@
+spacy
+pykew
+pickle
+sklearn
+nltk
+random
