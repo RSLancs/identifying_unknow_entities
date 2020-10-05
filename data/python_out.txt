@@ -1,0 +1,16 @@
+smailr@ucrel-dighum:~/bio_tagging_2020$ python3 bio_tag_corpus.py                                 
+Plant list contains: 896121 unique plant names                                                    
+Total word bigrams in corpus: 61372360                                                            │
+Unique bigrams in corpus: 6643703                                                                 │
+Lengh of corpus bigrams BEFORE ambigious matches removed: 150654                                  │
+Ambigious plant name matches:                                                                     │
+12405390 12405389                                                                                 │
+18783546 18783545                                                                                 │
+24782734 24782733                                                                                 │
+32810483 32810482                                                                                 │
+36818705 36818704                                                                                 │
+36818938 36818937                                                                                 │
+37300220 37300219                                                                                 │
+60276386 60276385                                                                                 │
+60912840 60912839                                                                                 │
+Lengh of corpus bigrams AFTER ambigious matches removed: 150636    
