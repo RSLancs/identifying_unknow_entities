@@ -1,4 +1,4 @@
-# Comparing Precision, Recall and fscore when using Edit Distance vs Machine Learning to match 'unknown' plant names in Scientific Journals 
+## Comparing Precision, Recall and fscore when using Edit Distance vs Machine Learning to match 'unknown' plant names in Scientific Journals 
 
 
 ## Overview 
